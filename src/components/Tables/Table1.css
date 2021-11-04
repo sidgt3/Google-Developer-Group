@@ -1,0 +1,16 @@
+.options {
+  color: black;
+  background-color: white;
+}
+.img1 {
+  margin-right: 3%;
+}
+.avatar {
+  padding-left: 8%;
+  align-content: center;
+  align-items: center;
+}
+.text {
+  padding-top: 20px;
+  float: right;
+}

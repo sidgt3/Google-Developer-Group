@@ -1,0 +1,64 @@
+.whole {
+  background-color: #e5e5e5;
+}
+.main {
+  width: 270px !important;
+  text-align: center;
+  margin-top: 10% !important;
+}
+.avatar {
+  padding-left: 8%;
+}
+.img1 {
+  margin-right: 3%;
+}
+.support {
+  padding-left: 8%;
+}
+.name1 {
+  font-size: 16px !important;
+}
+.name2 {
+  font-size: 12px !important;
+  color: rgba(158, 160, 165, 1);
+}
+.options {
+  color: #66788a;
+}
+.bodyHeader {
+  background-color: grey;
+  position: static;
+}
+.graph,
+.tableLists {
+  float: left;
+  width: 100%;
+}
+
+.barChart,
+.tableList2 {
+  background-color: white;
+  border: 3px solid;
+  border-radius: 7px;
+  border-color: transparent;
+  margin: 1% !important;
+  width: 71%;
+}
+.pieChart,
+.tableList1 {
+  background-color: white;
+  border: 3px solid;
+  border-radius: 7px;
+  border-color: transparent;
+  /* padding: 10px; */
+  margin: 1% !important;
+  width: 22%;
+}
+.table_img1,
+.table_img2 {
+  align-items: center;
+  width: 90%;
+}
+.sideBar {
+  background-color: white;
+}
